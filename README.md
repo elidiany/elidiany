@@ -5,5 +5,5 @@
 <code>🧑‍💻 Languages: JavaScript</code>
 <code>📦 Tech stack: node.js</code>
 <code>🪙 [Rates](RATES.md)</code><br>
-<code>💬 telegram: [@iyumi](https://telegram.me/iyumi)</code>
+<code>💬 telegram: [@iyumii](https://telegram.me/iyumii)</code>
 <code>📫 [skylake.god@gmail.com](mailto:skylake.god@gmail.com)</code>
